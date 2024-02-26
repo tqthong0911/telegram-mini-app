@@ -41,7 +41,7 @@ function App() {
   };
 
   const onCheckout = () => {
-    tele.MainButton.text = "Pay :)";
+    tele.MainButton.text = "Pay 123";
     tele.MainButton.show('tqthong');
   };
 
